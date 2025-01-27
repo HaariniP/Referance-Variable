@@ -21,3 +21,12 @@ public class ReferenceVariableExample {
         student2.display();
     }
 }
+
+Output 
+Using student1 reference:
+Student Name: Alice
+Using student2 reference:
+Student Name: Alice
+
+After modifying through student2:
+Student Name: Bob
